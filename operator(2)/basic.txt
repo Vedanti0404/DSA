@@ -1,0 +1,25 @@
+arithmetic operators--->unary(++,--)
+                |
+                |------>binary (+,-,*,/)
+                        (needs 2 operands)
+
+
+   {*,/,%}  >  {+,-}           
+   associative: left to right
+
+
+   unary:{++,--}
+   a++ : post increment (first do work at b and then increase by 1)
+   ++a : post increment (first increase by 1 and then add to b)
+   a-- : post decrement (first do work at b and then decrease by 1)
+   --a : post decrement (first decrease by 1and then add to b)
+
+
+
+   comparision operators: will be giving answer in 0 and 1
+
+   {==,>,<,>=,<=,!=}
+
+   1. ==: 3==4   ans--> either true or false()
+
+   2. >: 3>2  ans-->
