@@ -4,7 +4,6 @@ using namespace std;
 int ascii(char ch){
     return int(ch);
 }
-
 int main(){
     char ch;
     cout<<"Enter character: ";
