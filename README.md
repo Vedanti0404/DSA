@@ -1,2 +1,1 @@
 # DSA
-f vw ln
